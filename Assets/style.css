@@ -10,11 +10,16 @@ a{
     
 }
 
+.links{
+    color:black;
+    font-size: 15px;
+}
+
 .black{
     background-color: black;
 }
 
-.padding50{
+.padding50, .about{
     padding: 50px;
 }
 
@@ -30,3 +35,8 @@ a{
     width: 100%;
     height: 150px;
   }
+
+ td{
+     padding:10px;
+     
+ } 
